@@ -29,7 +29,7 @@ Em comunidades urbanas e rurais, muitas famílias não têm clareza sobre o volu
 ## 🚀 Como Usar (Recomendado para Windows)
 
 1. **Baixe o executável**
-   - Vá até a seção [Releases](https://github.com/cientistaarlis/alerta-consumo-agua-residencial/releases) ou baixe diretamente o arquivo `agua_embasa.exe`
+   - Baixe diretamente o arquivo `agua_embasa.exe`
 
 2. **Execute o programa**
    - Dê um duplo clique no arquivo `agua_embasa.exe`
