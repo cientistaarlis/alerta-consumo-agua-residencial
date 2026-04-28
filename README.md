@@ -34,4 +34,4 @@ Em comunidades urbanas e rurais, muitas famílias não têm clareza sobre o volu
 2. **Execute o programa**
    - Dê um duplo clique no arquivo `agua_embasa.exe`
    - O programa abrirá no terminal/cmd
-   - Siga as instruções na tela
+   
