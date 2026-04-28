@@ -2,9 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![C Programming](https://img.shields.io/badge/C-Language-blue.svg)](https://devdocs.io/c/)
-[![GitHub repo size](https://img.shields.io/github/repo-size/cientistaarlis/alerta-consumo-agua-residencial)](https://github.com/cientistaarlis/alerta-consumo-agua-residencial)
-[![GitHub last commit](https://img.shields.io/github/last-commit/cientistaarlis/alerta-consumo-agua-residencial)](https://github.com/cientistaarlis/alerta-consumo-agua-residencial/commits/main)
-[![C Programming](https://img.shields.io/badge/C-Language-blue.svg)](https://devdocs.io/c/)
 
 Um sistema desenvolvido em C para monitoramento e classificação do consumo de água residencial, com base nas tarifas da EMBASA (Bahia), ajudando famílias a economizar água e dinheiro.
 
